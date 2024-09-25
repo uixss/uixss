@@ -37,16 +37,7 @@
 
 
 </div>
-<h2 align="center">Sistemas Operativos</h2>
-<p align="center">
-    
-    <img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"/>
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"/>
-</p><br>
-<h3 align="center">    
-    Hay seres humanos y hombres, alma y ideología.
-     Y yo estoy pegado como un indio a su lanza
-</h3>
+
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
