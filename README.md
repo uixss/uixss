@@ -4,13 +4,13 @@
   <br>
 <h2 align="center">Estadisticas</h2>
 <div align="center">
-  <a href="https://github.com/intratable">
+  <a href="https://github.com/uixss">
     <p align="center">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=intratable&show_icons=true&theme=github_dark&hide_border=true" />
-      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=intratable&theme=github-dark-blue&hide_border=true" />
-      <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=intratable&theme=github_dark&hide_border=true"/>
-      <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=intratable&theme=github_dark&hide_border=true"/>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intratable&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=uixss&show_icons=true&theme=github_dark&hide_border=true" />
+      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=uixss&theme=github-dark-blue&hide_border=true" />
+      <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uixss&theme=github_dark&hide_border=true"/>
+      <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uixss&theme=github_dark&hide_border=true"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uixss&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
     </p>
   </a>
  
@@ -39,7 +39,7 @@
 </div>
 <h2 align="center">Sistemas Operativos</h2>
 <p align="center">
-    <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"/>
+    
     <img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"/>
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"/>
 </p><br>
