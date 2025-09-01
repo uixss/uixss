@@ -3,14 +3,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
   <br>
 <h2 align="center"></h2>
-<div align="center">
-  <a href="https://github.com/uixss">
- 
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=uixss&show_icons=true&theme=github_dark&hide_border=true" />
-    
-  </a>
- 
-</div>  
+  
 <h2 align="center">⚡</h2>  
 <div align="center">
 
